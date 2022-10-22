@@ -1,0 +1,5 @@
+ALTER TABLE `cs_admin` ADD `email` VARCHAR(255) NOT NULL AFTER `name`;
+ALTER TABLE `cs_admin` ADD `m_verification` VARCHAR(255) NOT NULL AFTER `user_password`;
+
+texasmarine7@gmail.com
+pass:texas_marine11
